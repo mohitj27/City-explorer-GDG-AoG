@@ -1,0 +1,64 @@
+[
+    {
+        "id": "1",
+        "name": "Mumbai",
+        "state": "Maharashtra",
+        "population": "112,372,972"
+
+    },
+    {
+        "id": "2",
+        "name": "Delhi",
+        "state": "Delhi",
+        "population": "16,787,941",
+        "TimeZone": "IST (UTC+5.30)"
+    },
+    {
+        "id": "3",
+        "name": "Bengaluru",
+        "state": "Karnataka",
+        "population": ""
+    },
+    {
+        "id": "4",
+        "name": "Ahmedabad",
+        "state": "Gujarat",
+        "population": ""
+    },
+    {
+        "id": "5",
+        "name": "Hyderabad",
+        "state": "Telangana",
+        "population": ""
+    },
+    {
+        "id": "6",
+        "name": "Chennai",
+        "state": "Tamil Nadu",
+        "population": ""
+    },
+    {
+        "id": "7",
+        "name": "Kolkata",
+        "state": "West Bengal",
+        "population": ""
+    },
+    {
+        "id": "8",
+        "name": "Pune",
+        "state": "Maharashtra",
+        "population": ""
+    },
+    {
+        "id": "9",
+        "name": "Jaipur",
+        "state": "Rajasthan",
+        "population": ""
+    },
+    {
+        "id": "10",
+        "name": "Surat",
+        "state": "Gujarat",
+        "population": ""
+    }
+]
