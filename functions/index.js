@@ -22,7 +22,8 @@ app.intent('city name', (conv, {city}) => {
      }
    }
    
-   theCity ? conv.close(city + ' is in ' + theCity.state) : conv.close('We have not mapped this city yet.');
+   theCity ? conv.close(`<speak>${city} is in  ${theCity.state}` + `<audio src="${audioSound}"></audio></speak>`) : conv.close(`<speak>We have not mapped this city yet.<audio src="${audioSound}"></audio></speak>`);
+   conv.ask(`<speak>would you want to explore more city<audio src="${audioSound}"></audio></speak>`);
 
   // Complete your fulfillment logic and
   // send a response when the function is done executing
