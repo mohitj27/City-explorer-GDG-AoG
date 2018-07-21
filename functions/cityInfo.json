@@ -3,8 +3,8 @@
         "id": "1",
         "name": "Mumbai",
         "state": "Maharashtra",
-        "population": "112,372,972"
-
+        "population": "112,372,972",
+        "TimeZone": "IST (UTC+5.30)"
     },
     {
         "id": "2",
@@ -17,48 +17,64 @@
         "id": "3",
         "name": "Bengaluru",
         "state": "Karnataka",
-        "population": ""
+        "population": "12,339,447",
+        "TimeZone": "IST (UTC+5.30)"
+
     },
     {
         "id": "4",
         "name": "Ahmedabad",
         "state": "Gujarat",
-        "population": ""
+        "population": "",
+        "TimeZone": "IST (UTC+5.30)"
+
     },
     {
         "id": "5",
         "name": "Hyderabad",
         "state": "Telangana",
-        "population": ""
+        "population": "6,809,970",
+        "TimeZone": "IST (UTC+5.30)"
+
     },
     {
         "id": "6",
         "name": "Chennai",
         "state": "Tamil Nadu",
-        "population": ""
+        "population": "7,088,000",
+        "TimeZone": "IST (UTC+5.30)"
+
     },
     {
         "id": "7",
         "name": "Kolkata",
         "state": "West Bengal",
-        "population": ""
+        "population": "4,496,694",
+        "TimeZone": "IST (UTC+5.30)"
+
     },
     {
         "id": "8",
         "name": "Pune",
         "state": "Maharashtra",
-        "population": ""
+        "population": "3,402,458",
+        "TimeZone": "IST (UTC+5.30)"
+
     },
     {
         "id": "9",
         "name": "Jaipur",
         "state": "Rajasthan",
-        "population": ""
+        "population": "3,046,189",
+        "TimeZone": "IST (UTC+5.30)"
+
     },
     {
         "id": "10",
         "name": "Surat",
         "state": "Gujarat",
-        "population": ""
+        "population": "4,467,797",
+        "TimeZone": "IST (UTC+5.30)"
+
     }
 ]
